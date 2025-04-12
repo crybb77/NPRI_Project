@@ -1,3 +1,4 @@
+![NPRI_Photo](NPRI_Photo.png)
 # NPRI Time Series Regression Analysis
 
 This project analyzes the National Pollutant Release Inventory (NPRI) dataset to forecast pollutant release trends across industries in Canada. The primary objective is to identify industries with the highest projected increases and decreases in pollutant emissions over the next five years.
